@@ -1,0 +1,2 @@
+AMCL
+-DCATKIN_DEVEL_PREFIX=/home/cona/AMCL_data/devel -DCMAKE_INSTALL_PREFIX=/home/cona/AMCL_data/install -G Unix Makefiles
